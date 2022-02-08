@@ -1,0 +1,5 @@
+#write a program to convert kilometers to centimeters
+kilometer=int(input('enter the length of kilometer:'))
+#convert kiometer to centimeter
+centimeter=100000*kilometer
+print("centimeter:",centimeter)
